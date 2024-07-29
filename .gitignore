@@ -1,0 +1,12 @@
+# Ignore NuGet Packages
+**/packages/
+# Ignore build output directories
+**/bin/
+**/obj/
+# Ignore user-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+# Ignore Visual Studio Code directories
+.vscode/
