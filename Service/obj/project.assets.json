@@ -84,11 +84,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Service\\Service.csproj",
+      "projectUniqueName": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Service\\Service.csproj",
       "projectName": "Service",
-      "projectPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Service\\Service.csproj",
+      "projectPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Service\\Service.csproj",
       "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Service\\obj\\",
+      "outputPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Service\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -106,11 +106,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj"
+            "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Contracts\\Contracts.csproj"
             },
-            "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj": {
-              "projectPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Service.Contracts\\Service.Contracts.csproj"
+            "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Service.Contracts\\Service.Contracts.csproj": {
+              "projectPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Service.Contracts\\Service.Contracts.csproj"
             }
           }
         }

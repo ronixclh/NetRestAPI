@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8Uh2MXX6MC0=",
+  "dgSpecHash": "WDSKVPcJHXY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+  "projectFilePath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\CompanyEmployees\\CompanyEmployees.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronal\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ronal\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",

@@ -539,11 +539,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+      "projectUniqueName": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\LoggerService\\LoggerService.csproj",
       "projectName": "LoggerService",
-      "projectPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+      "projectPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\LoggerService\\LoggerService.csproj",
       "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\LoggerService\\obj\\",
+      "outputPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\LoggerService\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -561,8 +561,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj": {
-              "projectPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Contracts\\Contracts.csproj"
+            "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Contracts\\Contracts.csproj": {
+              "projectPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Contracts\\Contracts.csproj"
             }
           }
         }

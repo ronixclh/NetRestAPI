@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UdE+dwJhiLw=",
+  "dgSpecHash": "ltCDgDiRf4k=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj",
+  "projectFilePath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\LoggerService\\LoggerService.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronal\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
     "C:\\Users\\ronal\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",

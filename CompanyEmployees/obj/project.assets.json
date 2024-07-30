@@ -5057,11 +5057,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+      "projectUniqueName": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\CompanyEmployees\\CompanyEmployees.csproj",
       "projectName": "CompanyEmployees",
-      "projectPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\CompanyEmployees\\CompanyEmployees.csproj",
+      "projectPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\CompanyEmployees\\CompanyEmployees.csproj",
       "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\CompanyEmployees\\obj\\",
+      "outputPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\CompanyEmployees\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5079,17 +5079,17 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj": {
-              "projectPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj"
+            "C:\\Users\\ronal\\Desktop\\NetRestAPI\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj": {
+              "projectPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj"
             },
-            "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj": {
-              "projectPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\LoggerService\\LoggerService.csproj"
+            "C:\\Users\\ronal\\Desktop\\NetRestAPI\\LoggerService\\LoggerService.csproj": {
+              "projectPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\LoggerService\\LoggerService.csproj"
             },
-            "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj": {
-              "projectPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Repository\\Repository.csproj"
+            "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Repository\\Repository.csproj"
             },
-            "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Service\\Service.csproj": {
-              "projectPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Service\\Service.csproj"
+            "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Service\\Service.csproj": {
+              "projectPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Service\\Service.csproj"
             }
           }
         }

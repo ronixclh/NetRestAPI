@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {}
+    "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Entities\\Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj": {
+    "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Entities\\Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectUniqueName": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Entities\\Entities.csproj",
         "projectName": "Entities",
-        "projectPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Entities\\Entities.csproj",
+        "projectPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Entities\\Entities.csproj",
         "packagesPath": "C:\\Users\\ronal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\Entities\\obj\\",
+        "outputPath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ronal\\AppData\\Roaming\\NuGet\\NuGet.Config",

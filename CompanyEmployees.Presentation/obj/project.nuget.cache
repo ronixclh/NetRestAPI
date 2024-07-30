@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/PQvldHS8GU=",
+  "dgSpecHash": "v55vjjKXEIg=",
   "success": true,
-  "projectFilePath": "C:\\Users\\ronal\\source\\repos\\CompanyEmployees\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
+  "projectFilePath": "C:\\Users\\ronal\\Desktop\\NetRestAPI\\CompanyEmployees.Presentation\\CompanyEmployees.Presentation.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ronal\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\ronal\\.nuget\\packages\\microsoft.aspnetcore.authentication.core\\2.2.0\\microsoft.aspnetcore.authentication.core.2.2.0.nupkg.sha512",
